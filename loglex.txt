@@ -1,0 +1,12 @@
+
+LEX-MQ: ROUNDS= 5 ROWS= 2 COLS= 2 BITS= 4 KEYS= 2 LEAK= 4
+total equations excl. field equations ne= 374
+total unknowns u= 208
+ratio (ne/u) 1.79807692308
+guessing bits = 0
+solutions = 1
+current effort = 2^0.0
+calculated Groebner Basis in 1.374791 sec
+calculated the Variety in 158.51 sec
+total cpu time 103.00834 sec
+total wall time 1317898879.17sec
